@@ -79,7 +79,7 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 
-print  """
+print LOGO logo = """
 \033[1;32;40m___YOUR___DAD___
 \033[1;32;40m_______   Z K   _____  
 \033[1;32;40m
